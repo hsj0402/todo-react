@@ -1,0 +1,31 @@
+
+nav {
+    background-color: #1d1c1c; 
+    padding: 9px 0; 
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+    text-align: center; 
+    text-decoration: none;
+  }
+  
+  li {
+    display: inline; 
+    margin-right: 20px;
+    text-decoration: none; 
+  }
+ 
+  
+  a {
+    text-decoration: none;
+    color: azure;
+    font-size: 18px;
+    padding: 11px 213px;
+    border-radius: 5px;
+  }
+  
+ 
+  
